@@ -1,4 +1,4 @@
-<h1>Hello, I'm Vanessa - BequiDev 🙍🏻‍♀️</h1>
+<h1>Hello, I'm Vanessa - BequiDev </h1>
 
 <h2>💻👨‍💻Full Stack Web Developer</h2>
 

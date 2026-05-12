@@ -1,48 +1,91 @@
-<h1>Hello, I'm Vanessa - BequiDev </h1>
+<p align="center">
+  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+</p>
 
-<h2>💻👨‍💻Full Stack Web Developer</h2>
+# ¡Hola! 👋  
+## Bienvenid@ a mi perfil de GitHub 🚀
 
-<hr>
+Soy **Vanessa Quiquia**, apasionada por la tecnología, el desarrollo de software y el aprendizaje constante. Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo web, backend con Java y herramientas de Inteligencia Artificial. 💻✨
 
-<h3>How to reach me:</h3>
+---
+## 🔭 Actualmente
 
-<a href="https://www.linkedin.com/in/bequidev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:vanequive24@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<hr>
+- Desarrollando proyectos personales con React, Next.js y Astro.
+- Explorando nuevas herramientas y buenas prácticas en desarrollo Front-end.
+- Aprendiendo más sobre integración de APIs, optimización y arquitectura web.
+- Utilizando herramientas de IA para mejorar productividad y resolución de problemas técnicos.
 
-<h2>Tools & Technologies</h2>
-<p>
-   <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Slack%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
-  
-  
-</p> 
+---
 
+## 🛠 Tecnologías y Herramientas
 
-<hr>
+### 💻 Frontend
+- Astro 🚀
+- React ⚛️
+- Next.js ▲
+- TypeScript 📝
+- JavaScript (ES6+) ⚡
 
-### About 📌
+### 🔗 Integración y Manejo de Datos
+- React Query 🔄
+- Consumo de APIs (Fetch / Axios) 🌐
+- Firebase 🔥  
+  - Authentication  
+  - Firestore
 
-### ✔  **Domain :** Full-Stack Web Development 💻
-### ✔  **Skills :** Javascript, ReactJs, Node.js
-### ✔  **Hobbies :**  Read 📕, Work out 💪, Music 🎧
+### 🎨 Estilos & UI
+- Tailwind CSS 💨
+- Chakra UI ✨
+- Material UI 🎯
+- HTML5 & CSS3 🎨
 
+### ⚙️ Herramientas
+- Git & GitHub 🖥️
+- VS Code 💡
+- ClickUp / Trello 📋
 
-```
+---
 
+## 🌱 Siempre Aprendiendo
+
+- Optimización y rendimiento web ⚡
+- Arquitectura Front-end 🏗️
+- Testing y calidad de código 🧪
+- Accesibilidad y experiencia de usuario ♿
+- Integración de IA en flujos de desarrollo
+
+---
+
+## 🌍 Idiomas
+- Español 🇵🇪
+- Inglés (Intermedio) 🇺🇸
+
+---
+
+## 🚀 En búsqueda de nuevas oportunidades
+
+Estoy en constante aprendizaje y crecimiento profesional, buscando participar en proyectos innovadores donde pueda aportar y seguir desarrollando mis habilidades.
+
+---
+
+## 🚀 Objetivos
+
+Mi objetivo es seguir creciendo profesionalmente en el mundo del desarrollo de software, participar en proyectos desafiantes y adquirir experiencia en tecnologías modernas.
+
+---
+
+## 📫 Cómo Contactarme
+
+- 📧 Correo: vanequive24@gmail.com
+- 💼 LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/bequidev/)
+- 🌐 GitHub: [Tu GitHub](https://github.com/Quiquia)
+
+---
+
+## ⚡ Dato Curioso
+
+Me gusta investigar curiosidades y profundizar en temas hasta encontrar una respuesta. Disfruto ayudar a otras personas a investigar o resolver dudas sobre temas que me interesan, porque creo que la información y el conocimiento tienen un gran valor. 🚀
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!

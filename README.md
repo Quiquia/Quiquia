@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+<img width="480" height="480" alt="merged" src="https://github.com/user-attachments/assets/fae727f3-eced-4d8a-b8c0-24fef17e825c" />
 </p>
 
 # ¡Hola! 👋  

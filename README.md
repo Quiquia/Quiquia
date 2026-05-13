@@ -1,5 +1,5 @@
 <p align="center">
-<img width="480" height="480" alt="merged" src="https://github.com/user-attachments/assets/fae727f3-eced-4d8a-b8c0-24fef17e825c" />
+<img width="200" height="200" alt="merged" src="https://github.com/user-attachments/assets/fae727f3-eced-4d8a-b8c0-24fef17e825c" />
 </p>
 
 # ¡Hola! 👋  
